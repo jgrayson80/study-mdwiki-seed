@@ -91,6 +91,10 @@
          3. Phospholipids transformed to lysophospholipids
          4. Combination with bile acids 
       2. Exogenous
+         1. Digestive
+            1. Emulsification
+         2. Absorption
+         3. Transport
       3. Endogenous
       4. Reverse cholesterol transport
    2. Normal and abnormal states
