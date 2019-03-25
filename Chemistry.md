@@ -92,10 +92,10 @@
          4. Combination with bile acids 
       2. Exogenous
          1. Digestive
-            1. Emulsification
+            1. Emulsification - bile salts break up lipids into micelles
          2. Absorption
-         3. Transport
-      3. Endogenous
+         3. Transport - Chilomicrons
+      3. Endogenous - liver synthesizes cholesterol
       4. Reverse cholesterol transport
    2. Normal and abnormal states
    3. Physical and chemical properties
