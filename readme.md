@@ -20,6 +20,8 @@ graph LR
     C --> E
 ```
 
+I just had to change the theme to default
+
 ## Plant UML incorporation test
 
 ```puml
