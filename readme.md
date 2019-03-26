@@ -21,6 +21,18 @@ graph LR
 ```
 
 I just had to change the theme to default
+Im supposed to be able to just add html and have mermaid work after the script
+
+<script src="mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+<div class ="mermaid">
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+</div>
+
+
 
 ## Flow.js incorporation test
 
@@ -40,6 +52,8 @@ cond(no)->para
 para(path1, bottom)->sub1(right)->op1
 para(path2, top)->op1
 ```
+
+Learning that I can really only use these to see a preview and export that preview
 
 ## Plant UML incorporation test
 
