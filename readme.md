@@ -12,9 +12,10 @@ Well that worked
 
 ### Flowchart
 
-graphTD;
-
-    A --> B;
-    B --> C;
-    C --> D;
-    C --> E;
+```mermaid
+graph LR
+    A --> B
+    B --> C
+    C --> D
+    C --> E
+```
