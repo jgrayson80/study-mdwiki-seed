@@ -135,7 +135,12 @@ Physical and chemical properties
   - Plasma lipid transfer proteins
 - Phospholipids
 - Triglycerides
+  - comprise 95% of stored fats
+  - transported by chylomicrons and VLDL
+- Fatty acids - major constituent of phospholipids and triglycerides
 - Cholesterol
+  - precursor for synthesis of bile acids, steroid hormones, and vit D
+  - primarily transported by LDL
 - Apolipopoteins
   - apolipoprotein A
   - apolipoprotein B
