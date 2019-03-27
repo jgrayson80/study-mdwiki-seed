@@ -32,8 +32,6 @@ sequenceDiagram
     John-->>Alice: Great!
 </div>
 
-
-
 ## Flow.js incorporation test
 
 ```flow
