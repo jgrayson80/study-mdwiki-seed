@@ -82,6 +82,8 @@ Test procedures
 - Special precautions, specimen collection and processing, toubleshooting, and interfering substances
 - Tolerance testing
 - Glycated proteins
+  - Hb A1c - provides average blood glucose levels over the past 2 months
+  - Fructosamine - measures glycated albumin to determine glycemic control over the past 3 weeks
 - Test result interpretation
 - Disease state correlation
 
@@ -103,19 +105,56 @@ Biochemical theory and physiology
   - Endogenous - liver synthesizes cholesterol
   - Reverse cholesterol transport
 - Normal and abnormal states
+  - Atherosclerosis - the deposition of lipids in various bodily tissue, the result of coronary artery disease (CAD)
+    - Mechanisms
+      - chronic endothelial injury
+        - hypertension
+        - smoking
+        - diabetes mellitus
+        - oxidative stress
+        - inflammation
+        - homocysteine
+          - enzyme deficiency
+          - gene mutation
+          - low levels of vitamin B6, B12, and folic acid
+          - reduced renal function
+      - elevated lipids
+        - mainly LDL
 
 Physical and chemical properties
 
 - Lipoproteins
+  - Chylomicrons - carry monoglycerides, glycerol and free fatty acids to tissue via interaction with HDL
+  - Very Low-Density - synthesized from chylomicron remnants, serves as cofactor for triglyceride hydrolizing
+  - Intermediate-Density -
+  - Low-Densisty - helps cells process uptake of cholesterol
+  - High-Density - helps cells remove cholesterol
+  - Lipoprotein (a) - risk factor for CAD
+  - Oxidized lipids
+  - Antioxidants
+  - Plasma lipid transfer proteins
 - Phospholipids
 - Triglycerides
 - Cholesterol
 - Apolipopoteins
+  - apolipoprotein A
+  - apolipoprotein B
+  - apolipoprotein C
+  - apolipoprotein D
+  - apolipoprotein E
 
 Test procedures
 
 - Principles
+  - Serum appearance
+  - Total cholesterol
+  - Cholesterol fractions
+    - HDL
+    - LDL
+    - Triglycerides
+    - Apoliproproteins
 - Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+  - Serum collected after fasting period
 - Test result interpretation
 - Disease state correlation
 
@@ -124,13 +163,22 @@ Test procedures
 Biochemical theory and physiology
 
 - Metabolic pathways
+  - Primarily in the bone marrow and liver
 - Normal and abnormal states
+  - Porphyria - heme synthesis disorders
+    - Neurologic
+    - Cutaneous
+    - Secondary
 - Physical and chemical properties
   - Hemoglobin
+    - heme molecule
+    - two pairs of globin chains
   - Bilirubin
-  - Urovilinogen
+  - Urobilinogen
   - Myoglobin
-  - Other porphyrins
+    - heme protein in skeltal and cardiac muscle
+    - main role is to transport oxygen from cell membrane to mitochondria
+  - Other porphyrins - intermediates in the synthesis of hemoglobin, myoglobin, and other respiratory pigments
 
 Test procedures
 
@@ -146,16 +194,25 @@ Test procedures
 Biochemical theory and physiology
 
 - Metabolic pathways
-  - Normal and abnormal states
-  - Physical and chemical properties
-    - LD
-    - CK
-    - AST/ALT
-    - GGT
-    - Lipase
-    - Amylase
-    - Alkaline phosphatase
-    - Other enzymes
+- Normal and abnormal states
+- Physical and chemical properties
+  - LD - Hydrogen transfer enzyme
+    - 5 isoenzymes
+  - CK - associated with ATP regen in muscle cells
+    - CK-MB
+    - CD-BB
+  - AST/ALT - aminostransferases used to evaluate hepatocellular function
+  - GGT - transfers gamma glutamyl residue
+    - associated with liver function
+      - peptide and protein synthesis
+      - transport of amino acids across membrane
+  - Lipase - breaks down fats
+    - pancreatic
+  - Amylase - breaks down starch and glycogen
+    - salivary
+    - pancreatic
+  - Alkaline phosphatase - liberates inorganic phosphate
+  - Other enzymes
 
 Test Procedures
 
