@@ -204,7 +204,7 @@
 
 #### Physical
 
-- Color and claity
+- Color and clarity
 - Specific gravity/osmolality
 
 #### Chemical
