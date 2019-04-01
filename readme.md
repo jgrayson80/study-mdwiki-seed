@@ -23,6 +23,8 @@ graph LR
 I just had to change the theme to default
 Im supposed to be able to just add html and have mermaid work after the script
 
+### Sequence Diagram
+
 <script src="mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
 
