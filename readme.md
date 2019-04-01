@@ -12,7 +12,7 @@ Well that worked
 
 ### Flowchart
 
-![SVG generated](../../mtest.svg)
+![SVG generated](mtest.svg)
 
 ```mermaid
 graph LR
