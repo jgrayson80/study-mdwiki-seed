@@ -12,6 +12,8 @@ Well that worked
 
 ### Flowchart
 
+![Nova Test](Images/nova.svg)
+
 ![SVG generated](mtest.svg)
 
 ```mermaid
