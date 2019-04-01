@@ -1,406 +1,561 @@
-# Exam Study Guide Outline
+# Outline
 
-# Blood Banking
+## Blood Banking
 
-## Blood Products
+### Blood Products
 
-### Donors
+#### Donors
 
-1. Qualification
-2. Collection methods
-3. Adverse reactions
-4. Special donations (e.g., autologous)
+- Qualification
+- Collection methods
+- Adverse reactions
+- Special donations (e.g., autologous)
 
-### Processing
+#### Processing
 
-1. Testing
-2. Labeling
+- Testing
+- Labeling
 
-### Storage
+#### Storage
 
-1. Anticoagulants/additives
-2. Temperature requirements
-3. Transportation
-4. Properties of stored products
-5. Expiration
+- Anticoagulants/additives
+- Temperature requirements
+- Transportation
+- Properties of stored products
+- Expiration
 
-### Blood Components
+#### Blood Components
+  
+- Red blood cells
+- Cryoprecipitated AHF
+- Platelets
+- Plasma
+- Lekoucyte-reduced components
+- Frozen/deglycerolized red blood cells
+- Apheresis products
+- Fractionation products
+- Whole blood
+- Washed red blood cells
+- Rejuvenated red blood cells
+- Irradiated components
 
-1. Red blood cells
-2. Cryoprecipitated AHF
-3. Platelets
-4. Plasma
-5. Lekoucyte-reduced components
-6. Frozen/deglycerolized red blood cells
-7. Apheresis products
-8. Fractionation products
-9. Whole blood
-10. Washed red blood cells
-11. Rejuvenated red blood cells
-12. irradiated components
+#### Blood Component Quuality Control
 
-### Blood Component Quuality Control
+### Blood Group Systems
 
-## Blood Group Systems
+#### Genetics
 
-### Genetics
+- Basic
+- Molecular
+- Inheritance of blood groups
 
-1. Basic
-2. Molecular
-3. Inheritance of blood groups
+#### Chemistry, Antigens
 
-### Chemistry, Antigens
+- ABO
+- Lewis
+- Rh
+- MNS
+- P1PK/Globoside(P)
+- Ii
+- Kell
+- Kidd
+- Duffy
+- Lutheran
+- Other
+- Antigens of high prevalence
+- Antigens of low prevalence
+- HLA
+- Platelet-specific
+- Granulocyte-specific
+
+#### Role of Blood Goups in Transfusion
+
+- Immunogenicity
+- Antigen fequency
+
+### Blood Group Immunology
 
-1. ABO
-2. Lewis
-3. Rh
-4. MNS
-5. P1PK/Globoside(P)
-6. Ii
-7. Kell
-8. Kidd
-9. Duffy
-10. Lutheran
-11. Other
-12. Antigens of high prevalence
-13. Antigens of low prevalence
-14. HLA
-15. Platelet-specific
-16. Granulocyte-specific
+#### Immune Response
+
+- Primary and secondary response
+- B and T cells, macrophages
+- Genetics
 
-### Role of Blood Goups in Transfusion
+#### Immunoglobulins
 
-1. Immunogenicity
-2. Antigen fequency
+- Classes and subclasses
+- Structure
+- Biologic and physical properties
 
-## Blood Group Immunology
+#### Antigen-Antibody Interactions
 
-### Immune Response
+- Principles
+- Testing
+  - Principles
+  - Methods
+- Complement
+  - Classical and alternative pathway mechanisms
+  - Biologic properties
 
-1. Primary and secondary response
-2. B and T cells, macrophages
-3. Genetics
+### Physiology and Pathophysiology
 
-### Immunoglobulins
+#### Physiology of Blood
 
-1. Classes and subclasses
-2. Structure
-3. Biologic and physical properties
+- Circulation and blood volume
+- Composition and function of blood
+  - Normal function
+  - Abnormal physiology
+- Cell survival
+- Cell metabolism
 
-### Antigen-Antibody Interactions
+#### Hemostasis and Coagulation
 
-1. Principles
-2. Testing
-   1. Principles
-   2. Methods
-3. Complement
-   1. Classical and alternative pathway mechanisms
-   2. Biologic properties
+- Coagulation factors and disorders
+- Platelet functions and disorders
 
-## Physiology and Pathophysiology
+#### Hemolytic Disease of the Fetus and Newbon
 
-### Physiology of Blood
+- Pathophysiology
+- Detection
+- Treatment
+- Prevention
 
-1. Circulation and blood volume
-2. Composition and function of blood
-   1. Normal function
-   2. Abnormal physiology
-3. Cell survival
-4. Cell metabolism
+#### Anemias
 
-### Hemostasis and Coagulation
+- Congenital and acquired
+  - Pathophysiology
+  - Detection
+  - Treatment
+- Immune hemolytic anemias: warm, cold, drug-induced
+  - Pathophysiology
+  - Detection
+  - Treatment
 
-1. Coagulation factors and disorders
-2. Platelet functions and disorders
+#### Transplantation
 
-### Hemolytic Disease of the Fetus and Newbon
+- Solid organ
+- Hematopoietic progenitor cells (HPC)
 
-1. Pathophysiology
-2. Detection
-3. Treatment
-4. Prevention
+### Serologic and Molecular Testing
 
-### Anemias
+#### Routine Tests
 
-1. Congenital and acquired
-   1. Pathophysiology
-   2. Detection
-   3. Treatment
-2. Immune hemolytic anemias: warm, cold, drug-induced
-   1. Pathophysiology
-   2. Detection
-   3. Treatment
+- Blood grouping tests
+- Compatibilitiy tests
+  - Antibody detection
+  - Crossmatch
+  - Antibody identification/clinical significance
+  - Direct antiglobulin testing
 
-### Transplantation
+#### Reagents
 
-1. Solid organ
-2. Hematopoietic progenitor cells (HPC)
+- Antiglobulin sera
+- Blood groping sera
+- Reagent red cells
 
-## Serologic and Molecular Testing
+#### Application of Special Tests and Reagents
 
-### Routine Tests
+- Enzymes
+- Enhancement media
+- Lectins
+- Adsorptions
+- Elutions
+- Titrations
+- Cell separations
+- ELISA
+- Molecular techniques
+- Neutralizzation/inhibition
+- Use of thiol reagents
+- Immunofluorescence
+- Solid phase
+- Column agglutination test
+- Chloroquine diphosphate
+- EDTA glycine acid
 
-1. Blood grouping tests
-2. Compatibilitiy tests
-   1. Antibody detection
-   2. Crossmatch
-   3. Antibody identification/clinical significance
-   4. Direct antiglobulin testing
+#### Leukocyte/Platelet Testing
 
-### Reagents
+- Cytotoxicity
+- Platelet testing
+- Granulocyte testing
 
-1. Antiglobulin sera
-2. Blood groping sera
-3. Reagent red cells
+#### Quality Assurance
 
-### Application of Special Tests and Reagents
+- Blood samples
+- Reagents
+- Test procedures
 
-1. Enzymes
-2. Enhancement media
-3. Lectins
-4. Adsorptions
-5. Elutions
-6. Titrations
-7. Cell separations
-8. ELISA
-9. Molecular techniques
-10. Neutralizzation/inhibition
-11. Use of thiol reagents
-12. Immunofluorescence
-13. Solid phase
-14. Column agglutination test
-15. Chloroquine diphosphate
-16. EDTA glycine acid
+### Transfusion Practice
 
-### Leukocyte/Platelet Testing
+#### Indications fo Transfusion
 
-1. Cytotoxicity
-2. Platelet testing
-3. Granulocyte testing
+#### Component Therapy
 
-### Quality Assurance
+#### Adverse Effects of Transfusion
 
-1. Blood samples
-2. Reagents
-3. Test procedures
+- Immunologic reactions
+- Nonimmunologic reactions
+- Transusion-transmitted diseases
+- Apheresis and Extracorporeal Circulation
+- Blood Administration and Patient Blood Management
+
+## Urinalysis and Body Fluids
+
+### Urinalysis
 
-## Transfusion Practice
-
-### Indications fo Transfusion
-
-### Component Therapy
-
-### Adverse Effects of Transfusion
-
-1. Immunologic reactions
-2. Nonimmunologic reactions
-3. Transusion-transmitted diseases
-4. Apheresis and Extracorporeal Circulation
-5. Blood Administration and Patient Blood Management
-
-# Urinalysis and Body Fluids
-
-## Urinalysis
-
-### Physical
-
-1. Color and claity
-2. Specific gravity/osmolality
-
-### Chemical
-
-1. Reagent strip
-2. Confirmatory tests
-
-### Microscopic
-
-1. Cells
-2. Casts
-3. Crystals
-4. Microorganisms
-5. Contaminants
-6. Artifacts
-
-### Renal Physiology
-
-### Disease States
-
-## Body Fluids
-
-### Physical
-
-### Chemical
-
-### Microscopic
-
-### Physiology
-
-### Disease States
-
-# [Chemistry](Chemistry.md)
-
-## General Chemistry
-
-### Carbohydrates
-
-1. Biochemical and physiology
-   1. Metabolic pathways
-   2. Normal and abnormal states
-   3. Physical and chemical properties
-2. Test procedures
-   1. Principles
-   2. Special precauses, specimen collection and processing, toubleshooting, and interfering substances
-   3. Tolerance testing
-   4. Glycated proteins
-3. Test result interpretation
-4. Disease state correlation
-
-### Lipids
-
-1. Biochemical theory and physiology
-   1. Metabolic pathways
-   2. Normal and abnormal states
-   3. Physical and chemical properties
-      1. Lipoproteins
-      2. Phospholipids
-      3. Triglycerides
-      4. Cholesterol
-      5. Apolipopoteins
-2. Test procedures
-   1. Principles
-   2. Special precautions, specimen collection and processing, troubleshooting, and interfering substances
-3. Test result interpretation
-4. Disease state correlation
-
-### Heme Derivatives
-
-1. Biochemical theory and physiology
-   1. Metabolic pathways
-   2. Normal and abnormal states
-   3. Physical and chemical properties
-      1. Hemoglobin
-      2. Bilirubin
-      3. Urovilinogen
-      4. Myoglobin
-      5. Other porphyrins
-2. Test procedures
-   1. Principles
-   2. Special precautions, specimen collection and processing, troubleshooting, and interfering substances
-3. Test result interpretation
-4. Disease state correlation
-
-## Proteins and Enzymes
-
-### Enzymes
-
-1. Biochemical theory and physiology
-   1. Metabolic pathways
-   2. Normal and abnormal states
-   3. Physical and chemical properties
-      1. LD
-      2. CK
-      3. AST/ALT
-      4. GGT
-      5. Lipase
-      6. Amylase
-      7. Alkaline phosphatase
-      8. Other enzymes
-2. Test Procedures
-   1. Principles
-   2. Special precautions, specimen collection and processing, troubleshooting, and interfering substances
-3. Test result interpretation
-4. Disease state correlation
-
-### Proteins and Other Nitrogen-Containing Compounds
-
-1. Biochemical theory and physiology
-   1. Metabolic pathways
-   2. Normal and abnormal states
-   3. Physical and chemical propeties
-      1. Proteins
-      2. Amino acids
-      3. Urea
-      4. Uric acid
-      5. Creatinine
-      6. Ammonia
-      7. Tumor markers
-      8. Viral proteins
-      9. Cardiac markers
-      10. Other compounds
-2.  Test procedures
-    1.  Principles
-    2.  Special precautions, specimen collection and pocessing, troubleshooting, and interfering substances
-    3.  Cleaances
-3.  Test result intepretation
-4.  Disease state corelation
-
-## Acid-Base, Blood Gases and Electrolytes
-
-### Acid-Base Determinations (Including Blood Gases)
-
-1. Biochemical theory and physiology
-   1. Henderson-Hasselbach equation
-   2. pH and H+ ion concentration
-   3. CO2 and O2 transport
-   4. Normal and abnormal states
-2. Test procedures
-   1. Analytical principles
-   2. Special precautions, specimen collection and processing, troubleshooting, and interfering substances
-3. Test result interpretation
-4. Disease state correlation
-
-### Electrolytes
-
-1. Biochemical theory and physiology
-   1. Sodium, potassium, chloride, CO2, bicarbonate
-   2. Calcium, magnesium, phosphorus, iron, TIBC
-   3. Trace elements
-   4. Normal and abnormal states
-2. Test procedures
-   1. Principles
-   2. Special precautions, specimen collection and processing, troubleshooting, and interfering substances
-3. Calculations (osmolality, anion gap)
-4. Test result interpretation
-5. Disease state correlation
-
-## Special Chemistry
-
-### Endocrinology
-
-1. Biochemical theory and physiology
-   1. Metabolic pathways
-   2. Normal and abnormal states
-   3. Mechanism of action
-   4. Physical and chemical properties
-      1. Steroid hormones (e.g., cortisol, estrogen, hCG)
-      2. Peptide hormones (e.g., insulin, prolactin)
-      3. Thyroid hormones
-      4. Other hormones
-2. Test procedures
-   1. Principles
-      1. Fluorescence
-      2. Immunoassay
-      3. Other methods
-   2. Special precautions, specimen collection and processing, troubleshooting, and interfering substances
-   3. Stimulation/suppression tests
-3. Test result interpretation
-4. Disease state correlation
-
-# Hematology
-
-
-# Immunology
-
-
-
-# Microbiology
-
-
-
-# Laboratory Operations
-
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjAyNTQzNzU3MiwtODMwNzgy
-OTI2XX0=
--->
+#### Physical
+
+- Color and claity
+- Specific gravity/osmolality
+
+#### Chemical
+
+- Reagent strip
+- Confirmatory tests
+
+#### Microscopic
+
+- Cells
+- Casts
+- Crystals
+- Microorganisms
+- Contaminants
+- Artifacts
+
+#### Renal Physiology
+
+#### Disease States
+
+### Body Fluids
+
+#### Physical
+
+#### Chemical
+
+#### Microscopic
+
+#### Physiology
+
+#### Disease States
+
+## [Chemistry](Chemistry.md)
+
+### General Chemistry
+
+#### Carbohydrates
+
+Biochemical theory and physiology
+
+- Metabolic pathways
+  - Glucose - Converted to glucose--phosphate using ATP and hexokinase
+    - (Glycolysis) Embden-Meyerhof
+      - Tricarboxylic acid cycle (Aerobic)
+        - Produces Acetyl-coenzyme A
+      - Glycolysis (Anaerobic)
+        - Produces Lactic acid
+      - Hexose monophosphate
+        - Produces NADPH
+      - Glycogenesis/glycogenolysis
+        - Helps regulate blood glucose level
+      - Gluconeogenesis
+        - Formation of glucose from noncarbohydrates
+- Normal and abnormal states
+  - Hyperglycemia
+    - Diabetes mellitus - deficiency of insulin secretion or action
+      - Type 1 - Autoimmune destruction of pancreatic islet beta cells
+      - Type 2 - Insulin resistance
+      - Other
+        - Genetic defects
+          - Beta cell function
+          - Insulin receptor
+          - Other still
+            - Pancreatic or endocrine disease
+            - Drug or chemical induced
+      - Gestational diabetes mellitus
+  - Hypoglycemia
+    - Reactive
+    - Spontaneous
+    - Glycogen storage diseases
+      - 10 types associated with enzyme deficiency
+        - Type I (von Gierke's) - most common, is Glucose-6-phosphate deficiency
+
+Physical and chemical properties
+
+- Classification
+  - Monosaccharides - 1 unit
+    - Glucose
+    - Fructose
+    - Galactose
+  - Oligosaccharides - 2 to 10 units
+    - Disaccharides
+      - Maltose
+      - Lactose
+      - Sucrose
+  - Polysaccharides - >10 units
+    - Starch
+    - Glycogen
+- Stereoisomers
+- Chemical properties
+  - Reducing substances - contains ketone or aldehyde group
+  - Glycosidic bonding
+
+Test procedures
+
+- Principles
+  - Random plasma glucose
+  - Fasting plasma glucose
+  - Urine glucose - used as screening test - glucose appears in urine when blood glucose level exceeds the renal threshold
+  - Two-hour postprandial plasma glucose - plasma glucose measured after patient is given a standard load of glucose
+  - Oral glucose tolerance test
+  - Screening test for gestational diabetes mellitus
+  - Intravenous glucose tolerance test
+  - Self-monitoring
+  - Urine microalbumin - Detects damage to kidneys due to diabetic complications
+  - Serum and urine ketone - degree of ketoacidosis
+  - Autoantibodies
+  - Five-hour glucose tolerance test - hypoglycemia
+  - Insulin - pancreatic cancer
+  - C-peptide - measures endogenous insulin secretion
+  - Insulin tolerance
+  - Tolbutamide tolerance - stimulates pancrease to secrete insulin
+  - Epinepherine tolerance - stimulates breakdown of glycogen
+- Special precautions, specimen collection and processing, toubleshooting, and interfering substances
+- Tolerance testing
+- Glycated proteins
+  - Hb A1c - provides average blood glucose levels over the past 2 months
+  - Fructosamine - measures glycated albumin to determine glycemic control over the past 3 weeks
+- Test result interpretation
+- Disease state correlation
+
+#### Lipids
+
+Biochemical theory and physiology
+
+- Metabolic pathways
+  - Absorption
+    - Pancreatic lipase cleaves triglycerides
+    - Cholesterol esters transformed to free cholesterol
+    - Phospholipids transformed to lysophospholipids
+    - Combination with bile acids
+  - Exogenous
+    - Digestive
+      - Emulsification - bile salts break up lipids into micelles
+    - Absorption
+    - Transport - Chilomicrons
+  - Endogenous - liver synthesizes cholesterol
+  - Reverse cholesterol transport
+- Normal and abnormal states
+  - Atherosclerosis - the deposition of lipids in various bodily tissue, the result of coronary artery disease (CAD)
+    - Mechanisms
+      - chronic endothelial injury
+        - hypertension
+        - smoking
+        - diabetes mellitus
+        - oxidative stress
+        - inflammation
+        - homocysteine
+          - enzyme deficiency
+          - gene mutation
+          - low levels of vitamin B6, B12, and folic acid
+          - reduced renal function
+      - elevated lipids
+        - mainly LDL
+
+Physical and chemical properties
+
+- Lipoproteins
+  - Chylomicrons - carry monoglycerides, glycerol and free fatty acids to tissue via interaction with HDL
+  - Very Low-Density - synthesized from chylomicron remnants, serves as cofactor for triglyceride hydrolizing
+  - Intermediate-Density -
+  - Low-Densisty - helps cells process uptake of cholesterol
+  - High-Density - helps cells remove cholesterol
+  - Lipoprotein (a) - risk factor for CAD
+  - Oxidized lipids
+  - Antioxidants
+  - Plasma lipid transfer proteins
+- Phospholipids
+- Triglycerides
+  - comprise 95% of stored fats
+  - transported by chylomicrons and VLDL
+- Fatty acids - major constituent of phospholipids and triglycerides
+- Cholesterol
+  - precursor for synthesis of bile acids, steroid hormones, and vit D
+  - primarily transported by LDL
+- Apolipopoteins
+  - apolipoprotein A
+  - apolipoprotein B
+  - apolipoprotein C
+  - apolipoprotein D
+  - apolipoprotein E
+
+Test procedures
+
+- Principles
+  - Serum appearance
+  - Total cholesterol
+  - Cholesterol fractions
+    - HDL
+    - LDL
+    - Triglycerides
+    - Apoliproproteins
+- Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+  - Serum collected after fasting period
+- Test result interpretation
+- Disease state correlation
+
+#### Heme Derivatives
+
+Biochemical theory and physiology
+
+- Metabolic pathways
+  - Primarily in the bone marrow and liver
+- Normal and abnormal states
+  - Porphyria - heme synthesis disorders
+    - Neurologic
+    - Cutaneous
+    - Secondary
+- Physical and chemical properties
+  - Hemoglobin
+    - heme molecule
+    - two pairs of globin chains
+  - Bilirubin
+  - Urobilinogen
+  - Myoglobin
+    - heme protein in skeltal and cardiac muscle
+    - main role is to transport oxygen from cell membrane to mitochondria
+  - Other porphyrins - intermediates in the synthesis of hemoglobin, myoglobin, and other respiratory pigments
+
+Test procedures
+
+- Principles
+- Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+- Test result interpretation
+- Disease state correlation
+
+### Proteins and Enzymes
+
+#### Enzymes
+
+Biochemical theory and physiology
+
+- Metabolic pathways
+- Normal and abnormal states
+- Physical and chemical properties
+  - LD - Hydrogen transfer enzyme
+    - 5 isoenzymes
+  - CK - associated with ATP regen in muscle cells
+    - CK-MB
+    - CD-BB
+  - AST/ALT - aminostransferases used to evaluate hepatocellular function
+  - GGT - transfers gamma glutamyl residue
+    - associated with liver function
+      - peptide and protein synthesis
+      - transport of amino acids across membrane
+  - Lipase - breaks down fats
+    - pancreatic
+  - Amylase - breaks down starch and glycogen
+    - salivary
+    - pancreatic
+  - Alkaline phosphatase - liberates inorganic phosphate
+  - Other enzymes
+
+Test Procedures
+
+- Principles
+- Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+- Test result interpretation
+- Disease state correlation
+
+#### Proteins and Other Nitrogen-Containing Compounds
+
+Biochemical theory and physiology
+
+- Metabolic pathways
+- Normal and abnormal states
+- Physical and chemical propeties
+  - Proteins
+  - Amino acids
+  - Urea
+  - Uric acid
+  - Creatinine
+  - Ammonia
+  - Tumor markers
+  - Viral proteins
+  - Cardiac markers
+  - Other compounds
+
+Test procedures
+
+- Principles
+- Special precautions, specimen collection and pocessing, troubleshooting, and interfering substances
+- Clearances
+- Test result intepretation
+- Disease state corelation
+
+### Acid-Base, Blood Gases and Electrolytes
+
+#### Acid-Base Determinations (Including Blood Gases)
+
+Biochemical theory and physiology
+
+- Henderson-Hasselbach equation
+- pH and H+ ion concentration
+- CO2 and O2 transport
+- Normal and abnormal states
+
+Test procedures
+
+- Analytical principles
+- Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+- Test result interpretation
+- Disease state correlation
+
+#### Electrolytes
+
+Biochemical theory and physiology
+
+- Sodium, potassium, chloride, CO2, bicarbonate
+- Calcium, magnesium, phosphorus, iron, TIBC
+- Trace elements
+- Normal and abnormal states
+
+Test procedures
+
+- Principles
+- Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+- Calculations (osmolality, anion gap)
+- Test result interpretation
+- Disease state correlation
+
+### Special Chemistry
+
+#### Endocrinology
+
+Biochemical theory and physiology
+
+- Metabolic pathways
+- Normal and abnormal states
+- Mechanism of action
+- Physical and chemical properties
+  - Steroid hormones (e.g., cortisol, estrogen, hCG)
+  - Peptide hormones (e.g., insulin, prolactin)
+  - Thyroid hormones
+  - Other hormones
+
+Test procedures
+
+- Principles
+  - Fluorescence
+  - Immunoassay
+  - Other methods
+- Special precautions, specimen collection and processing, troubleshooting, and interfering substances
+- Stimulation/suppression tests
+- Test result interpretation
+- Disease state correlation
+
+## Hematology
+
+## Immunology
+
+## Microbiology
+
+## Laboratory Operations
