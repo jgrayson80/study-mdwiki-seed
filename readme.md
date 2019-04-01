@@ -12,6 +12,8 @@ Well that worked
 
 ### Flowchart
 
+![SVG generated](../../mtest.svg)
+
 ```mermaid
 graph LR
     A --> B
