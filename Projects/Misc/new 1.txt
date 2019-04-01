@@ -1,0 +1,50 @@
+Subject: Alethia Mycoplasma Direct DNA Amplification Assay
+Date: 03-16-2019
+
+New instrument serial number: AL4554
+
+Test kit information 
+	lot: 480250K001
+	expiration: 05-12-2020
+	received: 02-27-2019
+
+Mycoplasma direct external control
+	lot: 279890K010
+	expiration: 01-18-2020
+	received: 02-28-2018
+
+-----------------------------------------------------------
+
+Set up instrument according to provided instructions.
+Performed and recorded daily and monthly instrument maintainence.
+
+Quality Control
+
+	Run 1:
+		10 - Negative Controls (Test kit sample diluent)
+		
+		Result: 
+			Block A 
+				Well 2 - POSITIVE (further referenced as sample A:2)
+	
+	Run 2: 
+		8 - Negative Controls 
+		2 - Block A Well 2 (Heat treated sample A:2 from Run 1 tested on Block B wells 4 and 5)
+		
+		Result:
+			Block A
+				Well 4 - POSITIVE
+				
+			Block B
+				Well 1 - POSITIVE
+	
+	Run 3:
+		10 - Positive Controls (Mycoplasma Direct external control)
+		
+		Result:
+			As Expected
+			
+	
+
+	
+
