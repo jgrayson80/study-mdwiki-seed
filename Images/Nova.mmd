@@ -1,0 +1,43 @@
+graph LR
+
+A>Sample]-->c1
+
+subgraph NOVA
+
+    c1-->B
+    B[Lysing Reagent] -->|Acoustic Hemolyzer|C[Cuvette]
+    subgraph Co-oximiter Module
+        subgraph HGBfractions and Total Bilirubin 
+    C
+    end
+    
+    B
+    C
+    end
+
+subgraph Chemistry Module
+
+    c1[Air Detector]
+    c1-->aso1
+subgraph Analyzing Section One
+    aso1[pCO2]-->aso2[pO2]
+    aso2-->aso3[BUN]
+    aso3-->aso4[GLUCOSE]
+    aso4-->aso5[CREATINE]
+end
+
+subgraph Analyzing Section Two
+    aso5-->ast1[pH]
+    ast1-->ast2[Na+]
+    ast2-->ast3[K+]
+    ast3-->ast4[Cl-]
+    ast4-->ast5[Ca++]
+end
+
+ast5-->c2[Reference Probe]
+
+end
+
+c2-->W[Waste]
+C-->W
+end
