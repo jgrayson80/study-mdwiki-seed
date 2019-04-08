@@ -5,14 +5,12 @@
 
 # ASCP Exam Study Guide
 
-
 <!--
   -- Default theme
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
 [gimmick:theme](spacelab)
-
 
 <!--
   -- Navigation
@@ -22,6 +20,12 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 [Chemistry](pages/Chemistry.md)
+
+[Instrumentation](pages/Instrumentation.md)
+
+# Nova
+
+[Nova](pages/Nova-overview.md)
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()

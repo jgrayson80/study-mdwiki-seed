@@ -237,7 +237,7 @@
 
 #### Disease States
 
-## [Chemistry](Chemistry.md)
+## [Chemistry](pages/Chemistry.md)
 
 ### General Chemistry
 
