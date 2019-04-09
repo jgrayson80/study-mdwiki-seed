@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <title>Nova overview</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+        <link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+    </head>
+    <body>
+        <h1 id="nova-overview">Nova overview</h1>
+<script src="mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+<div class="mermaid">
+graph LR
+<p>subgraph NOVA</p>
+<pre><code>A&gt;Sample Probe]--&gt;|Air Detector|c1[Splitter Valve]
+A--&gt;RotaryValve[Rotary Valve]
+RotaryValve--&gt;Calibrators
+RotaryValve--&gt;CooxControls
+RotaryValve--&gt;BGControls
+RotaryValve--&gt;ChemControls
+RotaryValve--&gt;CooxCalibrator
+c1--&gt;B
+B[Lysing Reagent] --&gt;|Hemolyzer|C[Cuvette]
+c1--&gt;aso1
+C--&gt;CooxWaste
+ast5--&gt;MainWaste
+
+
+subgraph COOX Calibrator
+    CooxCalibrator[Calibrator]
+    LysingReagent[Lysing Reagent]
+    CooxWaste[Waste]
+end
+
+subgraph COOX Controls
+    CooxControls[Controls]
+end
+
+subgraph Calibrators with Creatine
+    Calibrators[Calibrators]
+    MainWaste[Waste]
+end
+
+subgraph Blood Gas Controls
+    BGControls[Controls]
+end
+
+subgraph Chemistry Controls
+    ChemControls[Controls]
+end
+
+subgraph CO-oximiter Module
+    subgraph HGBfractions and Total Bilirubin
+    C
+    end
+    B
+    C
+end
+
+subgraph Chemistry Module
+
+    subgraph Analyzing Section One
+        aso1[pCO2]--&gt;aso2[pO2]
+        aso2--&gt;aso3[LAC]
+        aso3--&gt;aso4[BUN]
+        aso4--&gt;aso5[GLUCOSE]
+        aso5--&gt;aso6[CREATINE]
+        aso6--&gt;c2[Reference Probe]
+    end
+
+    subgraph Analyzing Section Two
+        c2--&gt;ast1[pH]
+        ast1--&gt;ast2[Na+]
+        ast2--&gt;ast3[K+]
+        ast3--&gt;ast4[Cl-]
+        ast4--&gt;ast5[Ca++]
+    end
+end
+</code></pre>
+<p>end</p>
+</div>
+    </body>
+    </html>
